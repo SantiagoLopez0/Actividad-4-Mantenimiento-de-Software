@@ -1,20 +1,16 @@
-/* Importación de la fuente */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
 
-/* Configuración de fuentes */
 body {
   font-family: 'Poppins', sans-serif;
   min-height: 100vh;
   position: relative;
 }
 
-/* Estilos de hover para botones */
 a:hover {
   transition: color 0.3s ease, transform 0.2s ease;
   transform: scale(1.05);
 }
 
-/* Utilidades adicionales */
 img {
   transition: transform 0.3s ease;
 }
